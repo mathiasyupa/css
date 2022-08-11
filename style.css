@@ -1,0 +1,28 @@
+* {
+ color: black; 
+}
+h2 {
+    color: red;
+}
+.titulo-h2{
+    color: blue;
+}
+#id-del-elemento {
+    color: chartreuse;
+    
+}
+[titulo="see"] {
+    color: brown;
+}
+
+h2 p {
+    color: chocolate;
+}
+
+p b {
+    background-color: cornsilk;
+}
+
+h2 b:hover {
+    background-color: grey !important
+}
